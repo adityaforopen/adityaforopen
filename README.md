@@ -11,19 +11,6 @@ Education
     September 2020 - May 2024 (Expected)
 
 
-Certifications
-
-    Google Cybersecurity Certificate by Google on Coursera
-    Microsoft Certified Security, Compliance, and Identity Fundamentals (Exam SC-900)
-    NASSCOM Certified Big Data Technology
-    Play It Safe: Manage Security Risks
-    Data Visualization
-    Front End Development Libraries
-    Automate Cybersecurity Tasks with Python
-    Responsive Web Design Certification (freeCodeCamp)
-    Back End Development Libraries Certification (freeCodeCamp)
-
-
 Let's Connect!
 
 I'm excited to connect with fellow cybersecurity enthusiasts, professionals, and experts. Whether it's discussing the latest trends or exploring job opportunities, feel free to reach out. Let's collaborate and build a safer digital space together!
